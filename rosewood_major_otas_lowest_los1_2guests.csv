@@ -1,0 +1,1465 @@
+﻿Day,Date,Channel,Rosewood Sand Hill,Garden Court Hotel,Nobu Hotel Epiphany Palo Alto,Stanford Park Hotel,Westin Palo Alto,Pullman San Francisco Bay
+Thu,3/7/2019,Brand.com,655,629,649,549,No data,199
+Thu,3/7/2019,Booking.com,705,629,749,549,605,179
+Thu,3/7/2019,Expedia,Sold out,629,749,549,685,179
+Thu,3/7/2019,GDS,655,629,649,549,455,199
+Fri,3/8/2019,Brand.com,565,329,249,219,No data,129
+Fri,3/8/2019,Booking.com,585,329,379,219,185,116
+Fri,3/8/2019,Expedia,535,280,379,219,215,116
+Fri,3/8/2019,GDS,535,329,249,219,215,129
+Sat,3/9/2019,Brand.com,465,329,249,154,No data,123
+Sat,3/9/2019,Booking.com,465,329,359,179,155,116
+Sat,3/9/2019,Expedia,465,280,359,179,185,116
+Sat,3/9/2019,GDS,465,329,249,179,185,123
+Sun,3/10/2019,Brand.com,505,529,499,384,No data,151
+Sun,3/10/2019,Booking.com,535,529,699,409,349,143
+Sun,3/10/2019,Expedia,505,450,699,409,349,143
+Sun,3/10/2019,GDS,505,529,499,409,349,151
+Mon,3/11/2019,Brand.com,865,749,Sold out,574,No data,265
+Mon,3/11/2019,Booking.com,795,749,999,639,Sold out,251
+Mon,3/11/2019,Expedia,895,637,999,599,"1,069",251
+Mon,3/11/2019,GDS,895,749,Sold out,599,"1,069",265
+Tue,3/12/2019,Brand.com,Sold out,939,999,884,No data,341
+Tue,3/12/2019,Booking.com,Sold out,Sold out,LOS3,939,Sold out,341
+Tue,3/12/2019,Expedia,Sold out,866,Sold out,909,"1,309",341
+Tue,3/12/2019,GDS,Sold out,939,999,909,"1,139",341
+Wed,3/13/2019,Brand.com,Sold out,667,949,884,No data,341
+Wed,3/13/2019,Booking.com,Sold out,869,LOS2,939,Sold out,341
+Wed,3/13/2019,Expedia,Sold out,866,Sold out,909,Sold out,341
+Wed,3/13/2019,GDS,Sold out,889,949,909,Sold out,341
+Thu,3/14/2019,Brand.com,565,629,649,454,No data,189
+Thu,3/14/2019,Booking.com,565,629,699,479,429,179
+Thu,3/14/2019,Expedia,565,535,699,479,689,179
+Thu,3/14/2019,GDS,565,629,649,479,489,189
+Fri,3/15/2019,Brand.com,465,309,249,174,No data,132
+Fri,3/15/2019,Booking.com,465,309,379,199,185,125
+Fri,3/15/2019,Expedia,465,263,379,199,185,125
+Fri,3/15/2019,GDS,465,309,249,199,185,132
+Sat,3/16/2019,Brand.com,465,309,249,154,No data,132
+Sat,3/16/2019,Booking.com,465,309,359,179,157,125
+Sat,3/16/2019,Expedia,465,263,359,179,157,125
+Sat,3/16/2019,GDS,465,309,249,179,157,132
+Sun,3/17/2019,Brand.com,535,529,499,344,No data,218
+Sun,3/17/2019,Booking.com,535,529,699,369,297,206
+Sun,3/17/2019,Expedia,535,450,699,369,271,206
+Sun,3/17/2019,GDS,535,529,499,369,271,218
+Mon,3/18/2019,Brand.com,805,749,849,554,No data,398
+Mon,3/18/2019,Booking.com,775,749,949,579,755,341
+Mon,3/18/2019,Expedia,805,637,949,579,925,341
+Mon,3/18/2019,GDS,840,749,849,579,616,398
+Tue,3/19/2019,Brand.com,Sold out,889,LOS3,624,No data,398
+Tue,3/19/2019,Booking.com,Sold out,889,LOS3,649,925,341
+Tue,3/19/2019,Expedia,Sold out,756,Sold out,649,642,341
+Tue,3/19/2019,GDS,Sold out,889,Sold out,649,642,398
+Wed,3/20/2019,Brand.com,895,889,LOS3,624,No data,370
+Wed,3/20/2019,Booking.com,915,889,LOS3,649,755,341
+Wed,3/20/2019,Expedia,895,756,Sold out,649,755,341
+Wed,3/20/2019,GDS,895,889,Sold out,649,616,370
+Thu,3/21/2019,Brand.com,655,649,699,474,No data,206
+Thu,3/21/2019,Booking.com,655,649,699,499,450,206
+Thu,3/21/2019,Expedia,655,552,699,499,441,206
+Thu,3/21/2019,GDS,655,649,699,499,441,206
+Fri,3/22/2019,Brand.com,465,329,249,154,No data,116
+Fri,3/22/2019,Booking.com,465,329,379,179,186,116
+Fri,3/22/2019,Expedia,465,280,379,179,186,116
+Fri,3/22/2019,GDS,465,329,249,179,186,116
+Sat,3/23/2019,Brand.com,Sold out,309,399,154,No data,116
+Sat,3/23/2019,Booking.com,Sold out,309,359,179,203,116
+Sat,3/23/2019,Expedia,Sold out,263,359,179,203,116
+Sat,3/23/2019,GDS,Sold out,309,399,179,203,116
+Sun,3/24/2019,Brand.com,Sold out,549,Sold out,384,No data,143
+Sun,3/24/2019,Booking.com,Sold out,549,Sold out,409,467,143
+Sun,3/24/2019,Expedia,Sold out,450,Sold out,409,458,143
+Sun,3/24/2019,GDS,Sold out,549,Sold out,409,458,143
+Mon,3/25/2019,Brand.com,Sold out,749,"1,149",584,No data,284
+Mon,3/25/2019,Booking.com,Sold out,Sold out,799,609,725,284
+Mon,3/25/2019,Expedia,Sold out,620,799,609,616,284
+Mon,3/25/2019,GDS,Sold out,749,"1,149",609,616,284
+Tue,3/26/2019,Brand.com,805,Sold out,LOS3,684,No data,559
+Tue,3/26/2019,Booking.com,805,Sold out,LOS3,709,785,559
+Tue,3/26/2019,Expedia,805,Sold out,Sold out,709,955,559
+Tue,3/26/2019,GDS,840,Sold out,Sold out,709,667,559
+Wed,3/27/2019,Brand.com,865,Sold out,LOS3,684,No data,404
+Wed,3/27/2019,Booking.com,915,869,LOS3,709,812,377
+Wed,3/27/2019,Expedia,915,Sold out,Sold out,709,785,377
+Wed,3/27/2019,GDS,865,Sold out,Sold out,709,667,404
+Thu,3/28/2019,Brand.com,655,649,749,464,No data,179
+Thu,3/28/2019,Booking.com,655,649,799,489,719,179
+Thu,3/28/2019,Expedia,655,535,799,489,859,179
+Thu,3/28/2019,GDS,655,649,749,489,586,179
+Fri,3/29/2019,Brand.com,465,309,309,154,No data,143
+Fri,3/29/2019,Booking.com,465,309,409,179,365,143
+Fri,3/29/2019,Expedia,465,263,409,179,356,143
+Fri,3/29/2019,GDS,465,309,309,179,356,143
+Sat,3/30/2019,Brand.com,465,309,309,154,No data,143
+Sat,3/30/2019,Booking.com,465,309,359,179,263,143
+Sat,3/30/2019,Expedia,465,263,359,179,263,143
+Sat,3/30/2019,GDS,465,309,309,179,263,143
+Sun,3/31/2019,Brand.com,505,529,499,394,No data,161
+Sun,3/31/2019,Booking.com,505,529,699,419,314,161
+Sun,3/31/2019,Expedia,505,450,699,419,314,161
+Sun,3/31/2019,GDS,505,529,499,419,314,161
+Mon,4/1/2019,Brand.com,715,583,699,554,No data,489
+Mon,4/1/2019,Booking.com,715,729,849,579,662,529
+Mon,4/1/2019,Expedia,715,620,849,579,645,489
+Mon,4/1/2019,GDS,715,729,699,579,620,489
+Tue,4/2/2019,Brand.com,865,695,LOS3,624,No data,LOS2
+Tue,4/2/2019,Booking.com,865,869,LOS3,649,781,LOS2
+Tue,4/2/2019,Expedia,865,739,Sold out,649,764,Sold out
+Tue,4/2/2019,GDS,865,869,Sold out,649,764,Sold out
+Wed,4/3/2019,Brand.com,895,695,LOS3,624,No data,440
+Wed,4/3/2019,Booking.com,895,869,LOS3,649,939,296
+Wed,4/3/2019,Expedia,945,739,Sold out,649,798,440
+Wed,4/3/2019,GDS,895,869,Sold out,649,798,440
+Thu,4/4/2019,Brand.com,465,503,599,484,No data,251
+Thu,4/4/2019,Booking.com,465,629,749,509,654,224
+Thu,4/4/2019,Expedia,465,535,749,509,649,251
+Thu,4/4/2019,GDS,465,629,599,509,484,251
+Fri,4/5/2019,Brand.com,465,247,249,214,No data,143
+Fri,4/5/2019,Booking.com,465,309,409,239,212,125
+Fri,4/5/2019,Expedia,465,263,409,239,220,143
+Fri,4/5/2019,GDS,465,309,249,239,220,143
+Sat,4/6/2019,Brand.com,505,247,309,154,No data,143
+Sat,4/6/2019,Booking.com,505,309,329,179,220,125
+Sat,4/6/2019,Expedia,505,263,329,179,220,143
+Sat,4/6/2019,GDS,505,309,309,179,220,143
+Sun,4/7/2019,Brand.com,655,423,599,454,No data,206
+Sun,4/7/2019,Booking.com,685,529,749,479,382,206
+Sun,4/7/2019,Expedia,655,450,749,479,382,206
+Sun,4/7/2019,GDS,655,529,599,479,382,206
+Mon,4/8/2019,Brand.com,865,583,999,554,No data,529
+Mon,4/8/2019,Booking.com,945,729,799,579,973,529
+Mon,4/8/2019,Expedia,865,620,799,579,"1,175",529
+Mon,4/8/2019,GDS,865,729,999,579,829,529
+Tue,4/9/2019,Brand.com,895,695,LOS3,664,No data,LOS2
+Tue,4/9/2019,Booking.com,895,869,LOS3,689,747,LOS2
+Tue,4/9/2019,Expedia,895,739,Sold out,689,747,Sold out
+Tue,4/9/2019,GDS,895,869,Sold out,689,747,Sold out
+Wed,4/10/2019,Brand.com,895,695,LOS3,584,No data,559
+Wed,4/10/2019,Booking.com,895,869,LOS3,609,603,559
+Wed,4/10/2019,Expedia,895,739,Sold out,609,603,559
+Wed,4/10/2019,GDS,895,869,Sold out,609,603,559
+Thu,4/11/2019,Brand.com,805,503,649,484,No data,323
+Thu,4/11/2019,Booking.com,945,629,749,509,569,323
+Thu,4/11/2019,Expedia,805,535,749,509,569,323
+Thu,4/11/2019,GDS,840,629,649,509,569,323
+Fri,4/12/2019,Brand.com,465,247,309,154,No data,143
+Fri,4/12/2019,Booking.com,465,309,409,179,369,125
+Fri,4/12/2019,Expedia,465,263,409,179,263,143
+Fri,4/12/2019,GDS,465,309,309,179,263,143
+Sat,4/13/2019,Brand.com,565,247,309,154,No data,143
+Sat,4/13/2019,Booking.com,565,329,329,179,309,125
+Sat,4/13/2019,Expedia,565,263,329,179,212,143
+Sat,4/13/2019,GDS,565,309,309,179,212,143
+Sun,4/14/2019,Brand.com,565,423,499,524,No data,206
+Sun,4/14/2019,Booking.com,565,529,749,549,549,206
+Sun,4/14/2019,Expedia,565,450,749,549,314,206
+Sun,4/14/2019,GDS,565,529,499,549,314,206
+Mon,4/15/2019,Brand.com,"1,095",583,949,864,No data,531
+Mon,4/15/2019,Booking.com,"1,095",729,799,889,925,427
+Mon,4/15/2019,Expedia,"1,095",620,799,889,Sold out,531
+Mon,4/15/2019,GDS,"1,095",729,949,889,725,531
+Tue,4/16/2019,Brand.com,"1,095",695,LOS3,584,No data,559
+Tue,4/16/2019,Booking.com,"1,095",869,LOS3,609,713,449
+Tue,4/16/2019,Expedia,"1,095",739,Sold out,609,688,559
+Tue,4/16/2019,GDS,"1,095",869,Sold out,609,688,559
+Wed,4/17/2019,Brand.com,895,695,LOS3,624,No data,413
+Wed,4/17/2019,Booking.com,895,869,LOS3,649,603,377
+Wed,4/17/2019,Expedia,895,739,Sold out,649,603,413
+Wed,4/17/2019,GDS,895,869,Sold out,649,603,413
+Thu,4/18/2019,Brand.com,655,503,649,484,No data,251
+Thu,4/18/2019,Booking.com,655,629,749,509,373,251
+Thu,4/18/2019,Expedia,655,535,749,509,373,251
+Thu,4/18/2019,GDS,655,629,649,509,373,251
+Fri,4/19/2019,Brand.com,465,247,249,154,No data,116
+Fri,4/19/2019,Booking.com,465,309,409,179,169,116
+Fri,4/19/2019,Expedia,465,263,409,179,169,116
+Fri,4/19/2019,GDS,465,309,249,179,169,116
+Sat,4/20/2019,Brand.com,465,247,249,154,No data,116
+Sat,4/20/2019,Booking.com,465,309,329,179,212,116
+Sat,4/20/2019,Expedia,465,263,329,179,186,116
+Sat,4/20/2019,GDS,465,309,249,179,186,116
+Sun,4/21/2019,Brand.com,465,423,399,304,No data,116
+Sun,4/21/2019,Booking.com,465,529,749,329,289,116
+Sun,4/21/2019,Expedia,465,450,749,329,246,116
+Sun,4/21/2019,GDS,465,529,399,329,246,116
+Mon,4/22/2019,Brand.com,745,583,799,454,No data,179
+Mon,4/22/2019,Booking.com,745,729,799,479,699,179
+Mon,4/22/2019,Expedia,795,620,799,479,699,179
+Mon,4/22/2019,GDS,745,729,799,479,424,179
+Tue,4/23/2019,Brand.com,685,695,LOS3,524,No data,350
+Tue,4/23/2019,Booking.com,685,869,LOS3,549,785,296
+Tue,4/23/2019,Expedia,685,739,Sold out,549,785,350
+Tue,4/23/2019,GDS,685,869,Sold out,549,642,350
+Wed,4/24/2019,Brand.com,685,695,LOS3,524,No data,395
+Wed,4/24/2019,Booking.com,685,869,LOS3,549,785,296
+Wed,4/24/2019,Expedia,685,739,Sold out,549,785,395
+Wed,4/24/2019,GDS,685,869,Sold out,549,642,395
+Thu,4/25/2019,Brand.com,655,503,699,474,No data,296
+Thu,4/25/2019,Booking.com,655,629,899,499,560,251
+Thu,4/25/2019,Expedia,655,535,899,499,552,296
+Thu,4/25/2019,GDS,655,629,699,499,552,296
+Fri,4/26/2019,Brand.com,595,247,Sold out,174,No data,143
+Fri,4/26/2019,Booking.com,595,309,899,199,271,143
+Fri,4/26/2019,Expedia,595,263,899,199,271,143
+Fri,4/26/2019,GDS,595,309,Sold out,199,271,143
+Sat,4/27/2019,Brand.com,535,247,459,154,No data,143
+Sat,4/27/2019,Booking.com,505,309,899,179,237,143
+Sat,4/27/2019,Expedia,535,263,899,179,237,143
+Sat,4/27/2019,GDS,535,309,459,179,237,143
+Sun,4/28/2019,Brand.com,535,423,499,454,No data,206
+Sun,4/28/2019,Booking.com,535,529,749,479,399,206
+Sun,4/28/2019,Expedia,535,450,749,479,399,206
+Sun,4/28/2019,GDS,535,529,499,479,399,206
+Mon,4/29/2019,Brand.com,745,583,949,574,No data,398
+Mon,4/29/2019,Booking.com,775,729,849,599,875,398
+Mon,4/29/2019,Expedia,745,620,849,599,849,398
+Mon,4/29/2019,GDS,745,729,949,599,849,398
+Tue,4/30/2019,Brand.com,685,695,LOS3,594,No data,439
+Tue,4/30/2019,Booking.com,685,869,LOS3,619,955,439
+Tue,4/30/2019,Expedia,685,739,Sold out,619,955,439
+Tue,4/30/2019,GDS,685,869,Sold out,619,642,439
+Wed,5/1/2019,Brand.com,865,695,LOS3,594,No data,439
+Wed,5/1/2019,Booking.com,865,869,LOS3,619,642,529
+Wed,5/1/2019,Expedia,865,869,Sold out,619,642,439
+Wed,5/1/2019,GDS,865,869,Sold out,619,642,439
+Thu,5/2/2019,Brand.com,Sold out,519,749,484,No data,296
+Thu,5/2/2019,Booking.com,Sold out,649,849,509,543,296
+Thu,5/2/2019,Expedia,Sold out,629,849,509,679,296
+Thu,5/2/2019,GDS,Sold out,649,749,509,535,296
+Fri,5/3/2019,Brand.com,775,263,399,224,No data,161
+Fri,5/3/2019,Booking.com,885,329,449,249,305,161
+Fri,5/3/2019,Expedia,775,309,449,249,297,161
+Fri,5/3/2019,GDS,775,329,399,249,297,161
+Sat,5/4/2019,Brand.com,895,263,399,224,No data,161
+Sat,5/4/2019,Booking.com,945,329,449,249,416,161
+Sat,5/4/2019,Expedia,895,309,449,249,246,161
+Sat,5/4/2019,GDS,895,329,399,249,246,161
+Sun,5/5/2019,Brand.com,535,423,499,404,No data,206
+Sun,5/5/2019,Booking.com,535,529,749,429,331,206
+Sun,5/5/2019,Expedia,535,529,749,429,331,206
+Sun,5/5/2019,GDS,535,529,499,429,331,206
+Mon,5/6/2019,Brand.com,895,749,899,574,No data,465
+Mon,5/6/2019,Booking.com,895,749,699,599,756,465
+Mon,5/6/2019,Expedia,945,749,699,599,747,465
+Mon,5/6/2019,GDS,895,749,899,599,747,465
+Tue,5/7/2019,Brand.com,775,Sold out,Sold out,664,No data,Sold out
+Tue,5/7/2019,Booking.com,835,Sold out,Sold out,689,955,529
+Tue,5/7/2019,Expedia,775,Sold out,Sold out,689,955,529
+Tue,5/7/2019,GDS,775,Sold out,Sold out,689,642,Sold out
+Wed,5/8/2019,Brand.com,835,889,Sold out,594,No data,LOS2
+Wed,5/8/2019,Booking.com,835,Sold out,Sold out,619,755,LOS2
+Wed,5/8/2019,Expedia,835,Sold out,Sold out,619,755,Sold out
+Wed,5/8/2019,GDS,835,889,Sold out,619,642,Sold out
+Thu,5/9/2019,Brand.com,685,519,Sold out,484,No data,350
+Thu,5/9/2019,Booking.com,685,649,Sold out,509,458,269
+Thu,5/9/2019,Expedia,685,629,Sold out,509,589,269
+Thu,5/9/2019,GDS,685,649,Sold out,509,458,350
+Fri,5/10/2019,Brand.com,505,247,309,224,No data,143
+Fri,5/10/2019,Booking.com,505,309,999,249,195,143
+Fri,5/10/2019,Expedia,505,309,999,249,195,143
+Fri,5/10/2019,GDS,505,309,309,249,195,143
+Sat,5/11/2019,Brand.com,565,247,309,224,No data,143
+Sat,5/11/2019,Booking.com,565,309,329,249,220,143
+Sat,5/11/2019,Expedia,565,309,329,249,220,143
+Sat,5/11/2019,GDS,565,309,309,249,220,143
+Sun,5/12/2019,Brand.com,655,423,549,414,No data,206
+Sun,5/12/2019,Booking.com,655,529,499,439,450,206
+Sun,5/12/2019,Expedia,655,529,499,439,424,206
+Sun,5/12/2019,GDS,655,529,549,439,424,206
+Mon,5/13/2019,Brand.com,685,583,749,574,No data,398
+Mon,5/13/2019,Booking.com,685,729,999,599,855,398
+Mon,5/13/2019,Expedia,685,729,999,599,855,398
+Mon,5/13/2019,GDS,685,729,749,599,557,398
+Tue,5/14/2019,Brand.com,745,695,LOS3,604,No data,439
+Tue,5/14/2019,Booking.com,775,869,LOS3,629,815,439
+Tue,5/14/2019,Expedia,745,869,Sold out,629,815,439
+Tue,5/14/2019,GDS,745,869,Sold out,629,642,439
+Wed,5/15/2019,Brand.com,865,695,LOS3,604,No data,439
+Wed,5/15/2019,Booking.com,835,869,LOS3,629,785,439
+Wed,5/15/2019,Expedia,865,869,Sold out,629,805,439
+Wed,5/15/2019,GDS,865,869,Sold out,629,642,439
+Thu,5/16/2019,Brand.com,685,503,699,484,No data,296
+Thu,5/16/2019,Booking.com,685,629,799,509,603,296
+Thu,5/16/2019,Expedia,685,629,799,509,594,296
+Thu,5/16/2019,GDS,685,629,699,509,594,296
+Fri,5/17/2019,Brand.com,465,247,249,224,No data,143
+Fri,5/17/2019,Booking.com,465,309,999,249,289,143
+Fri,5/17/2019,Expedia,465,309,999,249,263,143
+Fri,5/17/2019,GDS,465,309,249,249,220,143
+Sat,5/18/2019,Brand.com,465,247,249,224,No data,206
+Sat,5/18/2019,Booking.com,505,309,999,249,269,179
+Sat,5/18/2019,Expedia,465,309,999,249,203,206
+Sat,5/18/2019,GDS,465,309,249,249,203,206
+Sun,5/19/2019,Brand.com,465,423,449,404,No data,206
+Sun,5/19/2019,Booking.com,465,529,849,429,429,179
+Sun,5/19/2019,Expedia,465,529,849,429,365,206
+Sun,5/19/2019,GDS,465,529,449,429,365,206
+Mon,5/20/2019,Brand.com,685,583,Sold out,574,No data,531
+Mon,5/20/2019,Booking.com,685,729,899,599,LOS2,398
+Mon,5/20/2019,Expedia,685,729,899,599,557,531
+Mon,5/20/2019,GDS,685,729,Sold out,599,557,531
+Tue,5/21/2019,Brand.com,715,695,LOS3,614,No data,Sold out
+Tue,5/21/2019,Booking.com,715,869,LOS3,639,925,439
+Tue,5/21/2019,Expedia,715,869,Sold out,639,785,Sold out
+Tue,5/21/2019,GDS,715,869,Sold out,639,616,Sold out
+Wed,5/22/2019,Brand.com,715,695,LOS3,614,No data,Sold out
+Wed,5/22/2019,Booking.com,715,869,LOS3,639,725,417
+Wed,5/22/2019,Expedia,715,869,Sold out,639,725,Sold out
+Wed,5/22/2019,GDS,715,869,Sold out,639,616,Sold out
+Thu,5/23/2019,Brand.com,685,503,599,494,No data,296
+Thu,5/23/2019,Booking.com,685,629,999,519,484,269
+Thu,5/23/2019,Expedia,685,629,999,519,569,296
+Thu,5/23/2019,GDS,685,629,599,519,484,296
+Fri,5/24/2019,Brand.com,465,247,249,224,No data,143
+Fri,5/24/2019,Booking.com,465,309,999,249,271,125
+Fri,5/24/2019,Expedia,465,309,999,249,271,143
+Fri,5/24/2019,GDS,465,309,249,249,271,143
+Sat,5/25/2019,Brand.com,465,247,249,224,No data,143
+Sat,5/25/2019,Booking.com,465,309,999,249,254,125
+Sat,5/25/2019,Expedia,465,309,999,249,254,143
+Sat,5/25/2019,GDS,465,309,249,249,254,143
+Sun,5/26/2019,Brand.com,465,423,449,394,No data,143
+Sun,5/26/2019,Booking.com,465,529,999,419,246,125
+Sun,5/26/2019,Expedia,465,529,999,419,246,143
+Sun,5/26/2019,GDS,465,529,449,419,246,143
+Mon,5/27/2019,Brand.com,505,583,549,494,No data,143
+Mon,5/27/2019,Booking.com,505,729,999,519,322,143
+Mon,5/27/2019,Expedia,505,729,999,519,322,143
+Mon,5/27/2019,GDS,505,729,549,519,322,143
+Tue,5/28/2019,Brand.com,655,695,LOS3,574,No data,417
+Tue,5/28/2019,Booking.com,655,869,LOS3,599,616,370
+Tue,5/28/2019,Expedia,655,869,Sold out,599,616,417
+Tue,5/28/2019,GDS,655,869,Sold out,599,616,417
+Wed,5/29/2019,Brand.com,655,695,LOS3,574,No data,417
+Wed,5/29/2019,Booking.com,655,869,LOS3,599,616,370
+Wed,5/29/2019,Expedia,655,869,Sold out,599,616,417
+Wed,5/29/2019,GDS,655,869,Sold out,599,616,417
+Thu,5/30/2019,Brand.com,655,503,649,484,No data,296
+Thu,5/30/2019,Booking.com,655,629,999,509,526,269
+Thu,5/30/2019,Expedia,655,629,999,509,609,296
+Thu,5/30/2019,GDS,655,629,649,509,518,296
+Fri,5/31/2019,Brand.com,655,247,399,234,No data,143
+Fri,5/31/2019,Booking.com,655,309,999,259,373,143
+Fri,5/31/2019,Expedia,655,309,999,259,373,143
+Fri,5/31/2019,GDS,655,309,399,259,373,143
+Sat,6/1/2019,Brand.com,655,247,399,224,No data,143
+Sat,6/1/2019,Booking.com,655,309,999,249,314,143
+Sat,6/1/2019,Expedia,655,309,999,249,322,143
+Sat,6/1/2019,GDS,655,309,399,249,322,143
+Sun,6/2/2019,Brand.com,715,423,499,424,No data,206
+Sun,6/2/2019,Booking.com,715,529,549,449,373,206
+Sun,6/2/2019,Expedia,715,529,549,449,339,206
+Sun,6/2/2019,GDS,715,529,499,449,339,206
+Mon,6/3/2019,Brand.com,"1,095",583,749,574,No data,370
+Mon,6/3/2019,Booking.com,Sold out,729,999,599,855,313
+Mon,6/3/2019,Expedia,Sold out,729,999,599,855,370
+Mon,6/3/2019,GDS,"1,095",729,749,599,582,370
+Tue,6/4/2019,Brand.com,"1,035",869,LOS3,704,No data,LOS3
+Tue,6/4/2019,Booking.com,Sold out,869,LOS3,729,925,LOS3
+Tue,6/4/2019,Expedia,Sold out,869,Sold out,729,925,Sold out
+Tue,6/4/2019,GDS,"1,035",869,Sold out,729,642,Sold out
+Wed,6/5/2019,Brand.com,805,869,Sold out,674,No data,529
+Wed,6/5/2019,Booking.com,805,869,Sold out,699,616,529
+Wed,6/5/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,6/5/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,6/6/2019,Brand.com,685,629,649,454,No data,296
+Thu,6/6/2019,Booking.com,685,629,999,479,518,296
+Thu,6/6/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,6/6/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,6/7/2019,Brand.com,535,247,249,234,No data,251
+Fri,6/7/2019,Booking.com,535,309,999,259,305,251
+Fri,6/7/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,6/7/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,6/8/2019,Brand.com,535,247,249,224,No data,251
+Sat,6/8/2019,Booking.com,535,309,999,249,246,251
+Sat,6/8/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,6/8/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,6/9/2019,Brand.com,485,423,449,424,No data,251
+Sun,6/9/2019,Booking.com,485,529,999,449,365,251
+Sun,6/9/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,6/9/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,6/10/2019,Brand.com,775,583,799,574,No data,398
+Mon,6/10/2019,Booking.com,775,729,999,599,484,398
+Mon,6/10/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,6/10/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,6/11/2019,Brand.com,895,695,Sold out,624,No data,439
+Tue,6/11/2019,Booking.com,895,869,Sold out,649,594,439
+Tue,6/11/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,6/11/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,6/12/2019,Brand.com,895,695,Sold out,604,No data,489
+Wed,6/12/2019,Booking.com,895,869,Sold out,629,755,489
+Wed,6/12/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,6/12/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,6/13/2019,Brand.com,Sold out,Sold out,Sold out,484,No data,296
+Thu,6/13/2019,Booking.com,Sold out,Sold out,999,509,689,296
+Thu,6/13/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,6/13/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,6/14/2019,Brand.com,Sold out,Sold out,Sold out,Sold out,No data,143
+Fri,6/14/2019,Booking.com,Sold out,Sold out,999,Sold out,603,143
+Fri,6/14/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,6/14/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,6/15/2019,Brand.com,Sold out,Sold out,Sold out,Sold out,No data,143
+Sat,6/15/2019,Booking.com,Sold out,Sold out,999,Sold out,603,143
+Sat,6/15/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,6/15/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,6/16/2019,Brand.com,Sold out,Sold out,Sold out,524,No data,206
+Sun,6/16/2019,Booking.com,Sold out,Sold out,999,549,Sold out,206
+Sun,6/16/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,6/16/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,6/17/2019,Brand.com,655,583,699,624,No data,417
+Mon,6/17/2019,Booking.com,655,729,999,649,569,417
+Mon,6/17/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,6/17/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,6/18/2019,Brand.com,685,695,Sold out,654,No data,439
+Tue,6/18/2019,Booking.com,685,869,Sold out,679,616,439
+Tue,6/18/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,6/18/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,6/19/2019,Brand.com,685,695,Sold out,614,No data,439
+Wed,6/19/2019,Booking.com,685,869,Sold out,639,925,439
+Wed,6/19/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,6/19/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,6/20/2019,Brand.com,685,503,699,474,No data,296
+Thu,6/20/2019,Booking.com,685,629,Sold out,499,416,296
+Thu,6/20/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,6/20/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,6/21/2019,Brand.com,625,247,329,264,No data,224
+Fri,6/21/2019,Booking.com,625,309,Sold out,289,409,224
+Fri,6/21/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,6/21/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,6/22/2019,Brand.com,895,247,359,314,No data,224
+Sat,6/22/2019,Booking.com,895,309,Sold out,339,449,224
+Sat,6/22/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,6/22/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,6/23/2019,Brand.com,655,423,449,484,No data,224
+Sun,6/23/2019,Booking.com,655,529,Sold out,509,611,224
+Sun,6/23/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,6/23/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,6/24/2019,Brand.com,685,583,699,594,No data,465
+Mon,6/24/2019,Booking.com,685,729,Sold out,619,855,465
+Mon,6/24/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,6/24/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,6/25/2019,Brand.com,685,695,Sold out,724,No data,489
+Tue,6/25/2019,Booking.com,685,869,Sold out,749,755,489
+Tue,6/25/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,6/25/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,6/26/2019,Brand.com,895,695,Sold out,604,No data,489
+Wed,6/26/2019,Booking.com,895,869,Sold out,629,785,489
+Wed,6/26/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,6/26/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,6/27/2019,Brand.com,655,503,599,454,No data,296
+Thu,6/27/2019,Booking.com,655,629,Sold out,479,407,296
+Thu,6/27/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,6/27/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,6/28/2019,Brand.com,625,247,309,244,No data,143
+Fri,6/28/2019,Booking.com,625,309,Sold out,269,339,143
+Fri,6/28/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,6/28/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,6/29/2019,Brand.com,655,247,309,224,No data,143
+Sat,6/29/2019,Booking.com,655,309,Sold out,249,369,143
+Sat,6/29/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,6/29/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,6/30/2019,Brand.com,655,423,449,394,No data,143
+Sun,6/30/2019,Booking.com,655,529,Sold out,419,348,143
+Sun,6/30/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,6/30/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,7/1/2019,Brand.com,655,583,549,374,No data,350
+Mon,7/1/2019,Booking.com,655,729,Sold out,399,475,No data
+Mon,7/1/2019,Expedia,655,729,999,399,475,No data
+Mon,7/1/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,7/2/2019,Brand.com,655,695,Sold out,504,No data,350
+Tue,7/2/2019,Booking.com,655,869,Sold out,529,594,No data
+Tue,7/2/2019,Expedia,655,869,Sold out,529,594,No data
+Tue,7/2/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,7/3/2019,Brand.com,655,695,Sold out,504,No data,350
+Wed,7/3/2019,Booking.com,655,869,Sold out,529,620,No data
+Wed,7/3/2019,Expedia,655,869,Sold out,529,620,No data
+Wed,7/3/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,7/4/2019,Brand.com,655,503,549,324,No data,143
+Thu,7/4/2019,Booking.com,655,629,Sold out,349,475,No data
+Thu,7/4/2019,Expedia,655,629,999,349,475,No data
+Thu,7/4/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,7/5/2019,Brand.com,655,247,249,204,No data,143
+Fri,7/5/2019,Booking.com,655,309,Sold out,229,263,No data
+Fri,7/5/2019,Expedia,655,309,999,229,263,No data
+Fri,7/5/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,7/6/2019,Brand.com,655,247,249,184,No data,143
+Sat,7/6/2019,Booking.com,655,309,Sold out,209,319,No data
+Sat,7/6/2019,Expedia,655,309,999,209,314,No data
+Sat,7/6/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,7/7/2019,Brand.com,655,423,449,404,No data,206
+Sun,7/7/2019,Booking.com,655,529,Sold out,429,399,No data
+Sun,7/7/2019,Expedia,655,529,999,429,399,No data
+Sun,7/7/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,7/8/2019,Brand.com,685,583,749,574,No data,395
+Mon,7/8/2019,Booking.com,685,729,Sold out,599,620,No data
+Mon,7/8/2019,Expedia,685,729,999,599,620,No data
+Mon,7/8/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,7/9/2019,Brand.com,715,695,Sold out,624,No data,440
+Tue,7/9/2019,Booking.com,685,869,Sold out,649,725,No data
+Tue,7/9/2019,Expedia,685,869,Sold out,649,725,No data
+Tue,7/9/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,7/10/2019,Brand.com,685,695,Sold out,594,No data,440
+Wed,7/10/2019,Booking.com,685,869,Sold out,619,755,No data
+Wed,7/10/2019,Expedia,685,869,Sold out,619,755,No data
+Wed,7/10/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,7/11/2019,Brand.com,685,503,649,484,No data,350
+Thu,7/11/2019,Booking.com,655,629,Sold out,509,475,No data
+Thu,7/11/2019,Expedia,655,629,999,509,475,No data
+Thu,7/11/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,7/12/2019,Brand.com,655,247,249,244,No data,143
+Fri,7/12/2019,Booking.com,655,309,Sold out,269,499,No data
+Fri,7/12/2019,Expedia,655,309,999,269,299,No data
+Fri,7/12/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,7/13/2019,Brand.com,655,247,249,214,No data,143
+Sat,7/13/2019,Booking.com,655,309,Sold out,239,441,No data
+Sat,7/13/2019,Expedia,655,309,999,239,319,No data
+Sat,7/13/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,7/14/2019,Brand.com,655,423,449,404,No data,206
+Sun,7/14/2019,Booking.com,655,529,Sold out,429,339,No data
+Sun,7/14/2019,Expedia,655,529,999,429,339,No data
+Sun,7/14/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,7/15/2019,Brand.com,685,583,949,524,No data,395
+Mon,7/15/2019,Booking.com,685,729,Sold out,549,Sold out,No data
+Mon,7/15/2019,Expedia,685,729,Sold out,549,Sold out,No data
+Mon,7/15/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,7/16/2019,Brand.com,895,695,Sold out,634,No data,413
+Tue,7/16/2019,Booking.com,895,869,Sold out,659,725,No data
+Tue,7/16/2019,Expedia,895,869,Sold out,659,725,No data
+Tue,7/16/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,7/17/2019,Brand.com,895,695,Sold out,614,No data,413
+Wed,7/17/2019,Booking.com,895,869,Sold out,639,616,No data
+Wed,7/17/2019,Expedia,895,869,Sold out,639,725,No data
+Wed,7/17/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,7/18/2019,Brand.com,685,503,599,474,No data,296
+Thu,7/18/2019,Booking.com,685,629,Sold out,499,501,No data
+Thu,7/18/2019,Expedia,685,629,999,499,501,No data
+Thu,7/18/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,7/19/2019,Brand.com,685,247,279,274,No data,143
+Fri,7/19/2019,Booking.com,685,309,Sold out,299,441,No data
+Fri,7/19/2019,Expedia,685,309,999,299,441,No data
+Fri,7/19/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,7/20/2019,Brand.com,745,247,249,244,No data,143
+Sat,7/20/2019,Booking.com,745,309,Sold out,269,424,No data
+Sat,7/20/2019,Expedia,745,309,999,269,424,No data
+Sat,7/20/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,7/21/2019,Brand.com,655,423,499,424,No data,206
+Sun,7/21/2019,Booking.com,655,529,Sold out,449,599,No data
+Sun,7/21/2019,Expedia,655,529,999,449,599,No data
+Sun,7/21/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,7/22/2019,Brand.com,685,583,749,574,No data,395
+Mon,7/22/2019,Booking.com,685,729,Sold out,599,819,No data
+Mon,7/22/2019,Expedia,685,729,999,599,696,No data
+Mon,7/22/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,7/23/2019,Brand.com,685,695,Sold out,634,No data,413
+Tue,7/23/2019,Booking.com,685,869,Sold out,659,925,No data
+Tue,7/23/2019,Expedia,685,869,Sold out,659,755,No data
+Tue,7/23/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,7/24/2019,Brand.com,745,695,Sold out,634,No data,413
+Wed,7/24/2019,Booking.com,745,869,Sold out,659,925,No data
+Wed,7/24/2019,Expedia,745,869,Sold out,659,925,No data
+Wed,7/24/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,7/25/2019,Brand.com,685,503,649,484,No data,296
+Thu,7/25/2019,Booking.com,685,629,Sold out,509,749,No data
+Thu,7/25/2019,Expedia,685,629,999,509,749,No data
+Thu,7/25/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,7/26/2019,Brand.com,655,247,249,234,No data,143
+Fri,7/26/2019,Booking.com,655,309,Sold out,259,499,No data
+Fri,7/26/2019,Expedia,655,309,999,259,499,No data
+Fri,7/26/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,7/27/2019,Brand.com,655,247,309,214,No data,143
+Sat,7/27/2019,Booking.com,655,309,Sold out,239,424,No data
+Sat,7/27/2019,Expedia,655,309,999,239,424,No data
+Sat,7/27/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,7/28/2019,Brand.com,655,423,399,374,No data,206
+Sun,7/28/2019,Booking.com,655,529,Sold out,399,339,No data
+Sun,7/28/2019,Expedia,655,529,999,399,339,No data
+Sun,7/28/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,7/29/2019,Brand.com,655,583,699,484,No data,395
+Mon,7/29/2019,Booking.com,655,729,Sold out,509,669,No data
+Mon,7/29/2019,Expedia,655,729,999,509,611,No data
+Mon,7/29/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,7/30/2019,Brand.com,685,695,Sold out,604,No data,413
+Tue,7/30/2019,Booking.com,685,869,Sold out,629,925,No data
+Tue,7/30/2019,Expedia,685,869,Sold out,629,805,No data
+Tue,7/30/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,7/31/2019,Brand.com,835,695,Sold out,594,No data,413
+Wed,7/31/2019,Booking.com,835,869,Sold out,619,785,No data
+Wed,7/31/2019,Expedia,885,869,Sold out,619,805,No data
+Wed,7/31/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,8/1/2019,Brand.com,685,No data,599,464,No data,296
+Thu,8/1/2019,Booking.com,No data,No data,No data,No data,450,No data
+Thu,8/1/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,8/1/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,8/2/2019,Brand.com,565,No data,279,244,No data,143
+Fri,8/2/2019,Booking.com,No data,No data,No data,No data,433,No data
+Fri,8/2/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,8/2/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,8/3/2019,Brand.com,595,No data,279,234,No data,143
+Sat,8/3/2019,Booking.com,No data,No data,No data,No data,309,No data
+Sat,8/3/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,8/3/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,8/4/2019,Brand.com,655,No data,449,374,No data,206
+Sun,8/4/2019,Booking.com,No data,No data,No data,No data,331,No data
+Sun,8/4/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,8/4/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,8/5/2019,Brand.com,685,No data,749,594,No data,377
+Mon,8/5/2019,Booking.com,No data,No data,No data,No data,577,No data
+Mon,8/5/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,8/5/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,8/6/2019,Brand.com,745,No data,Sold out,644,No data,395
+Tue,8/6/2019,Booking.com,No data,No data,No data,No data,755,No data
+Tue,8/6/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,8/6/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,8/7/2019,Brand.com,685,No data,Sold out,654,No data,395
+Wed,8/7/2019,Booking.com,No data,No data,No data,No data,785,No data
+Wed,8/7/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,8/7/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,8/8/2019,Brand.com,685,No data,549,454,No data,296
+Thu,8/8/2019,Booking.com,No data,No data,No data,No data,639,No data
+Thu,8/8/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,8/8/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,8/9/2019,Brand.com,565,No data,279,234,No data,143
+Fri,8/9/2019,Booking.com,No data,No data,No data,No data,458,No data
+Fri,8/9/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,8/9/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,8/10/2019,Brand.com,595,No data,279,224,No data,143
+Sat,8/10/2019,Booking.com,No data,No data,No data,No data,369,No data
+Sat,8/10/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,8/10/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,8/11/2019,Brand.com,655,No data,449,364,No data,206
+Sun,8/11/2019,Booking.com,No data,No data,No data,No data,314,No data
+Sun,8/11/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,8/11/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,8/12/2019,Brand.com,685,No data,699,584,No data,377
+Mon,8/12/2019,Booking.com,No data,No data,No data,No data,685,No data
+Mon,8/12/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,8/12/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,8/13/2019,Brand.com,685,No data,Sold out,624,No data,395
+Tue,8/13/2019,Booking.com,No data,No data,No data,No data,785,No data
+Tue,8/13/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,8/13/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,8/14/2019,Brand.com,715,No data,Sold out,634,No data,395
+Wed,8/14/2019,Booking.com,No data,No data,No data,No data,755,No data
+Wed,8/14/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,8/14/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,8/15/2019,Brand.com,685,No data,549,444,No data,296
+Thu,8/15/2019,Booking.com,No data,No data,No data,No data,579,No data
+Thu,8/15/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,8/15/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,8/16/2019,Brand.com,565,No data,279,244,No data,143
+Fri,8/16/2019,Booking.com,No data,No data,No data,No data,389,No data
+Fri,8/16/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,8/16/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,8/17/2019,Brand.com,595,No data,279,224,No data,143
+Sat,8/17/2019,Booking.com,No data,No data,No data,No data,349,No data
+Sat,8/17/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,8/17/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,8/18/2019,Brand.com,655,No data,449,354,No data,206
+Sun,8/18/2019,Booking.com,No data,No data,No data,No data,305,No data
+Sun,8/18/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,8/18/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,8/19/2019,Brand.com,685,No data,699,564,No data,377
+Mon,8/19/2019,Booking.com,No data,No data,No data,No data,557,No data
+Mon,8/19/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,8/19/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,8/20/2019,Brand.com,685,No data,Sold out,594,No data,395
+Tue,8/20/2019,Booking.com,No data,No data,No data,No data,616,No data
+Tue,8/20/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,8/20/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,8/21/2019,Brand.com,685,No data,Sold out,604,No data,395
+Wed,8/21/2019,Booking.com,No data,No data,No data,No data,642,No data
+Wed,8/21/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,8/21/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,8/22/2019,Brand.com,685,No data,549,444,No data,313
+Thu,8/22/2019,Booking.com,No data,No data,No data,No data,Sold out,No data
+Thu,8/22/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,8/22/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,8/23/2019,Brand.com,565,No data,279,244,No data,199
+Fri,8/23/2019,Booking.com,No data,No data,No data,No data,Sold out,No data
+Fri,8/23/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,8/23/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,8/24/2019,Brand.com,595,No data,279,224,No data,199
+Sat,8/24/2019,Booking.com,No data,No data,No data,No data,Sold out,No data
+Sat,8/24/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,8/24/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,8/25/2019,Brand.com,655,No data,449,344,No data,265
+Sun,8/25/2019,Booking.com,No data,No data,No data,No data,305,No data
+Sun,8/25/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,8/25/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,8/26/2019,Brand.com,655,No data,749,554,No data,Sold out
+Mon,8/26/2019,Booking.com,No data,No data,No data,No data,655,No data
+Mon,8/26/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,8/26/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,8/27/2019,Brand.com,685,No data,Sold out,584,No data,Sold out
+Tue,8/27/2019,Booking.com,No data,No data,No data,No data,785,No data
+Tue,8/27/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,8/27/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,8/28/2019,Brand.com,715,No data,Sold out,594,No data,Sold out
+Wed,8/28/2019,Booking.com,No data,No data,No data,No data,725,No data
+Wed,8/28/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,8/28/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,8/29/2019,Brand.com,655,No data,499,434,No data,350
+Thu,8/29/2019,Booking.com,No data,No data,No data,No data,399,No data
+Thu,8/29/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,8/29/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,8/30/2019,Brand.com,565,No data,329,234,No data,161
+Fri,8/30/2019,Booking.com,No data,No data,No data,No data,237,No data
+Fri,8/30/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,8/30/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,8/31/2019,Brand.com,595,No data,279,214,No data,179
+Sat,8/31/2019,Booking.com,No data,No data,No data,No data,237,No data
+Sat,8/31/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,8/31/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,9/1/2019,Brand.com,655,No data,399,484,No data,143
+Sun,9/1/2019,Booking.com,No data,No data,No data,No data,356,No data
+Sun,9/1/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,9/1/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,9/2/2019,Brand.com,655,No data,599,584,No data,143
+Mon,9/2/2019,Booking.com,No data,No data,No data,No data,484,No data
+Mon,9/2/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,9/2/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,9/3/2019,Brand.com,655,No data,Sold out,764,No data,395
+Tue,9/3/2019,Booking.com,No data,No data,No data,No data,616,No data
+Tue,9/3/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,9/3/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,9/4/2019,Brand.com,655,No data,Sold out,764,No data,395
+Wed,9/4/2019,Booking.com,No data,No data,No data,No data,616,No data
+Wed,9/4/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,9/4/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,9/5/2019,Brand.com,655,No data,649,594,No data,395
+Thu,9/5/2019,Booking.com,No data,No data,No data,No data,441,No data
+Thu,9/5/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,9/5/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,9/6/2019,Brand.com,625,No data,329,244,No data,269
+Fri,9/6/2019,Booking.com,No data,No data,No data,No data,299,No data
+Fri,9/6/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,9/6/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,9/7/2019,Brand.com,655,No data,329,234,No data,269
+Sat,9/7/2019,Booking.com,No data,No data,No data,No data,319,No data
+Sat,9/7/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,9/7/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,9/8/2019,Brand.com,655,No data,399,484,No data,206
+Sun,9/8/2019,Booking.com,No data,No data,No data,No data,356,No data
+Sun,9/8/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,9/8/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,9/9/2019,Brand.com,685,No data,799,584,No data,350
+Mon,9/9/2019,Booking.com,No data,No data,No data,No data,889,No data
+Mon,9/9/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,9/9/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,9/10/2019,Brand.com,685,No data,Sold out,764,No data,395
+Tue,9/10/2019,Booking.com,No data,No data,No data,No data,925,No data
+Tue,9/10/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,9/10/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,9/11/2019,Brand.com,745,No data,Sold out,764,No data,395
+Wed,9/11/2019,Booking.com,No data,No data,No data,No data,925,No data
+Wed,9/11/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,9/11/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,9/12/2019,Brand.com,685,No data,699,594,No data,296
+Thu,9/12/2019,Booking.com,No data,No data,No data,No data,729,No data
+Thu,9/12/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,9/12/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,9/13/2019,Brand.com,625,No data,329,254,No data,143
+Fri,9/13/2019,Booking.com,No data,No data,No data,No data,433,No data
+Fri,9/13/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,9/13/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,9/14/2019,Brand.com,655,No data,329,244,No data,143
+Sat,9/14/2019,Booking.com,No data,No data,No data,No data,441,No data
+Sat,9/14/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,9/14/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,9/15/2019,Brand.com,655,No data,399,584,No data,251
+Sun,9/15/2019,Booking.com,No data,No data,No data,No data,373,No data
+Sun,9/15/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,9/15/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,9/16/2019,Brand.com,715,No data,Sold out,684,No data,Sold out
+Mon,9/16/2019,Booking.com,No data,No data,No data,No data,586,No data
+Mon,9/16/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,9/16/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,9/17/2019,Brand.com,895,No data,Sold out,804,No data,Sold out
+Tue,9/17/2019,Booking.com,No data,No data,No data,No data,925,No data
+Tue,9/17/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,9/17/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,9/18/2019,Brand.com,835,No data,Sold out,804,No data,Sold out
+Wed,9/18/2019,Booking.com,No data,No data,No data,No data,616,No data
+Wed,9/18/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,9/18/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,9/19/2019,Brand.com,775,No data,Sold out,624,No data,350
+Thu,9/19/2019,Booking.com,No data,No data,No data,No data,671,No data
+Thu,9/19/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,9/19/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,9/20/2019,Brand.com,625,No data,329,254,No data,143
+Fri,9/20/2019,Booking.com,No data,No data,No data,No data,441,No data
+Fri,9/20/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,9/20/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,9/21/2019,Brand.com,655,No data,329,254,No data,143
+Sat,9/21/2019,Booking.com,No data,No data,No data,No data,441,No data
+Sat,9/21/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,9/21/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,9/22/2019,Brand.com,655,No data,399,484,No data,206
+Sun,9/22/2019,Booking.com,No data,No data,No data,No data,389,No data
+Sun,9/22/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,9/22/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,9/23/2019,Brand.com,655,No data,799,654,No data,395
+Mon,9/23/2019,Booking.com,No data,No data,No data,No data,855,No data
+Mon,9/23/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,9/23/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,9/24/2019,Brand.com,685,No data,Sold out,804,No data,440
+Tue,9/24/2019,Booking.com,No data,No data,No data,No data,925,No data
+Tue,9/24/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,9/24/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,9/25/2019,Brand.com,715,No data,Sold out,764,No data,440
+Wed,9/25/2019,Booking.com,No data,No data,No data,No data,725,No data
+Wed,9/25/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,9/25/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,9/26/2019,Brand.com,685,No data,699,584,No data,350
+Thu,9/26/2019,Booking.com,No data,No data,No data,No data,685,No data
+Thu,9/26/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,9/26/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,9/27/2019,Brand.com,625,No data,329,264,No data,143
+Fri,9/27/2019,Booking.com,No data,No data,No data,No data,237,No data
+Fri,9/27/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,9/27/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,9/28/2019,Brand.com,655,No data,329,274,No data,143
+Sat,9/28/2019,Booking.com,No data,No data,No data,No data,229,No data
+Sat,9/28/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,9/28/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,9/29/2019,Brand.com,655,No data,399,484,No data,206
+Sun,9/29/2019,Booking.com,No data,No data,No data,No data,339,No data
+Sun,9/29/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,9/29/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,9/30/2019,Brand.com,655,No data,649,604,No data,350
+Mon,9/30/2019,Booking.com,No data,No data,No data,No data,685,No data
+Mon,9/30/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,9/30/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,10/1/2019,Brand.com,685,No data,Sold out,804,No data,395
+Tue,10/1/2019,Booking.com,No data,No data,No data,No data,755,No data
+Tue,10/1/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,10/1/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,10/2/2019,Brand.com,715,No data,Sold out,744,No data,395
+Wed,10/2/2019,Booking.com,No data,No data,No data,No data,755,No data
+Wed,10/2/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,10/2/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,10/3/2019,Brand.com,745,No data,699,564,No data,296
+Thu,10/3/2019,Booking.com,No data,No data,No data,No data,685,No data
+Thu,10/3/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,10/3/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,10/4/2019,Brand.com,625,No data,399,314,No data,143
+Fri,10/4/2019,Booking.com,No data,No data,No data,No data,449,No data
+Fri,10/4/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,10/4/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,10/5/2019,Brand.com,655,No data,399,324,No data,143
+Sat,10/5/2019,Booking.com,No data,No data,No data,No data,449,No data
+Sat,10/5/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,10/5/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,10/6/2019,Brand.com,655,No data,449,504,No data,206
+Sun,10/6/2019,Booking.com,No data,No data,No data,No data,409,No data
+Sun,10/6/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,10/6/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,10/7/2019,Brand.com,685,No data,749,724,No data,350
+Mon,10/7/2019,Booking.com,No data,No data,No data,No data,655,No data
+Mon,10/7/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,10/7/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,10/8/2019,Brand.com,685,No data,Sold out,844,No data,395
+Tue,10/8/2019,Booking.com,No data,No data,No data,No data,925,No data
+Tue,10/8/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,10/8/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,10/9/2019,Brand.com,745,No data,Sold out,794,No data,395
+Wed,10/9/2019,Booking.com,No data,No data,No data,No data,755,No data
+Wed,10/9/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,10/9/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,10/10/2019,Brand.com,835,No data,699,594,No data,350
+Thu,10/10/2019,Booking.com,No data,No data,No data,No data,637,No data
+Thu,10/10/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,10/10/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,10/11/2019,Brand.com,625,No data,399,334,No data,296
+Fri,10/11/2019,Booking.com,No data,No data,No data,No data,246,No data
+Fri,10/11/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,10/11/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,10/12/2019,Brand.com,655,No data,399,334,No data,296
+Sat,10/12/2019,Booking.com,No data,No data,No data,No data,254,No data
+Sat,10/12/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,10/12/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,10/13/2019,Brand.com,655,No data,449,504,No data,296
+Sun,10/13/2019,Booking.com,No data,No data,No data,No data,339,No data
+Sun,10/13/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,10/13/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,10/14/2019,Brand.com,685,No data,749,764,No data,350
+Mon,10/14/2019,Booking.com,No data,No data,No data,No data,685,No data
+Mon,10/14/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,10/14/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,10/15/2019,Brand.com,805,No data,Sold out,874,No data,395
+Tue,10/15/2019,Booking.com,No data,No data,No data,No data,755,No data
+Tue,10/15/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,10/15/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,10/16/2019,Brand.com,805,No data,Sold out,834,No data,395
+Wed,10/16/2019,Booking.com,No data,No data,No data,No data,755,No data
+Wed,10/16/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,10/16/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,10/17/2019,Brand.com,745,No data,699,614,No data,296
+Thu,10/17/2019,Booking.com,No data,No data,No data,No data,729,No data
+Thu,10/17/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,10/17/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,10/18/2019,Brand.com,625,No data,399,334,No data,143
+Fri,10/18/2019,Booking.com,No data,No data,No data,No data,489,No data
+Fri,10/18/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,10/18/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,10/19/2019,Brand.com,655,No data,399,334,No data,143
+Sat,10/19/2019,Booking.com,No data,No data,No data,No data,229,No data
+Sat,10/19/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,10/19/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,10/20/2019,Brand.com,655,No data,449,604,No data,206
+Sun,10/20/2019,Booking.com,No data,No data,No data,No data,539,No data
+Sun,10/20/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,10/20/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,10/21/2019,Brand.com,685,No data,799,784,No data,350
+Mon,10/21/2019,Booking.com,No data,No data,No data,No data,885,No data
+Mon,10/21/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,10/21/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,10/22/2019,Brand.com,895,No data,Sold out,894,No data,395
+Tue,10/22/2019,Booking.com,No data,No data,No data,No data,755,No data
+Tue,10/22/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,10/22/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,10/23/2019,Brand.com,930,No data,Sold out,874,No data,395
+Wed,10/23/2019,Booking.com,No data,No data,No data,No data,755,No data
+Wed,10/23/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,10/23/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,10/24/2019,Brand.com,835,No data,799,594,No data,296
+Thu,10/24/2019,Booking.com,No data,No data,No data,No data,Sold out,No data
+Thu,10/24/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,10/24/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,10/25/2019,Brand.com,745,No data,449,494,No data,206
+Fri,10/25/2019,Booking.com,No data,No data,No data,No data,559,No data
+Fri,10/25/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,10/25/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,10/26/2019,Brand.com,715,No data,449,474,No data,206
+Sat,10/26/2019,Booking.com,No data,No data,No data,No data,559,No data
+Sat,10/26/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,10/26/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,10/27/2019,Brand.com,655,No data,449,504,No data,251
+Sun,10/27/2019,Booking.com,No data,No data,No data,No data,339,No data
+Sun,10/27/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,10/27/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,10/28/2019,Brand.com,685,No data,649,794,No data,350
+Mon,10/28/2019,Booking.com,No data,No data,No data,No data,855,No data
+Mon,10/28/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,10/28/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,10/29/2019,Brand.com,685,No data,Sold out,854,No data,350
+Tue,10/29/2019,Booking.com,No data,No data,No data,No data,616,No data
+Tue,10/29/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,10/29/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,10/30/2019,Brand.com,685,No data,Sold out,864,No data,350
+Wed,10/30/2019,Booking.com,No data,No data,No data,No data,725,No data
+Wed,10/30/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,10/30/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,10/31/2019,Brand.com,655,No data,599,624,No data,179
+Thu,10/31/2019,Booking.com,No data,No data,No data,No data,659,No data
+Thu,10/31/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,10/31/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,11/1/2019,Brand.com,505,No data,Sold out,334,No data,143
+Fri,11/1/2019,Booking.com,No data,No data,No data,No data,246,No data
+Fri,11/1/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,11/1/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,11/2/2019,Brand.com,535,No data,359,334,No data,143
+Sat,11/2/2019,Booking.com,No data,No data,No data,No data,246,No data
+Sat,11/2/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,11/2/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,11/3/2019,Brand.com,595,No data,449,384,No data,206
+Sun,11/3/2019,Booking.com,No data,No data,No data,No data,569,No data
+Sun,11/3/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,11/3/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,11/4/2019,Brand.com,655,No data,649,674,No data,350
+Mon,11/4/2019,Booking.com,No data,No data,No data,No data,749,No data
+Mon,11/4/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,11/4/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,11/5/2019,Brand.com,895,No data,Sold out,784,No data,395
+Tue,11/5/2019,Booking.com,No data,No data,No data,No data,749,No data
+Tue,11/5/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,11/5/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,11/6/2019,Brand.com,865,No data,Sold out,784,No data,395
+Wed,11/6/2019,Booking.com,No data,No data,No data,No data,749,No data
+Wed,11/6/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,11/6/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,11/7/2019,Brand.com,715,No data,599,534,No data,296
+Thu,11/7/2019,Booking.com,No data,No data,No data,No data,679,No data
+Thu,11/7/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,11/7/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,11/8/2019,Brand.com,505,No data,329,384,No data,143
+Fri,11/8/2019,Booking.com,No data,No data,No data,No data,254,No data
+Fri,11/8/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,11/8/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,11/9/2019,Brand.com,535,No data,359,384,No data,143
+Sat,11/9/2019,Booking.com,No data,No data,No data,No data,254,No data
+Sat,11/9/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,11/9/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,11/10/2019,Brand.com,595,No data,449,484,No data,206
+Sun,11/10/2019,Booking.com,No data,No data,No data,No data,339,No data
+Sun,11/10/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,11/10/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,11/11/2019,Brand.com,655,No data,549,634,No data,350
+Mon,11/11/2019,Booking.com,No data,No data,No data,No data,749,No data
+Mon,11/11/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,11/11/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,11/12/2019,Brand.com,685,No data,Sold out,774,No data,395
+Tue,11/12/2019,Booking.com,No data,No data,No data,No data,749,No data
+Tue,11/12/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,11/12/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,11/13/2019,Brand.com,685,No data,Sold out,774,No data,395
+Wed,11/13/2019,Booking.com,No data,No data,No data,No data,749,No data
+Wed,11/13/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,11/13/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,11/14/2019,Brand.com,655,No data,599,534,No data,296
+Thu,11/14/2019,Booking.com,No data,No data,No data,No data,689,No data
+Thu,11/14/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,11/14/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,11/15/2019,Brand.com,505,No data,329,384,No data,143
+Fri,11/15/2019,Booking.com,No data,No data,No data,No data,441,No data
+Fri,11/15/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,11/15/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,11/16/2019,Brand.com,535,No data,359,384,No data,143
+Sat,11/16/2019,Booking.com,No data,No data,No data,No data,246,No data
+Sat,11/16/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,11/16/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,11/17/2019,Brand.com,595,No data,449,454,No data,269
+Sun,11/17/2019,Booking.com,No data,No data,No data,No data,331,No data
+Sun,11/17/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,11/17/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,11/18/2019,Brand.com,655,No data,Sold out,674,No data,Sold out
+Mon,11/18/2019,Booking.com,No data,No data,No data,No data,501,No data
+Mon,11/18/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,11/18/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,11/19/2019,Brand.com,655,No data,Sold out,784,No data,Sold out
+Tue,11/19/2019,Booking.com,No data,No data,No data,No data,586,No data
+Tue,11/19/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,11/19/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,11/20/2019,Brand.com,655,No data,Sold out,784,No data,Sold out
+Wed,11/20/2019,Booking.com,No data,No data,No data,No data,586,No data
+Wed,11/20/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,11/20/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,11/21/2019,Brand.com,655,No data,Sold out,534,No data,395
+Thu,11/21/2019,Booking.com,No data,No data,No data,No data,450,No data
+Thu,11/21/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,11/21/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,11/22/2019,Brand.com,505,No data,329,354,No data,143
+Fri,11/22/2019,Booking.com,No data,No data,No data,No data,280,No data
+Fri,11/22/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,11/22/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,11/23/2019,Brand.com,535,No data,359,354,No data,143
+Sat,11/23/2019,Booking.com,No data,No data,No data,No data,271,No data
+Sat,11/23/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,11/23/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,11/24/2019,Brand.com,595,No data,449,284,No data,143
+Sun,11/24/2019,Booking.com,No data,No data,No data,No data,297,No data
+Sun,11/24/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,11/24/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,11/25/2019,Brand.com,655,No data,499,334,No data,143
+Mon,11/25/2019,Booking.com,No data,No data,No data,No data,458,No data
+Mon,11/25/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,11/25/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,11/26/2019,Brand.com,655,No data,Sold out,384,No data,143
+Tue,11/26/2019,Booking.com,No data,No data,No data,No data,484,No data
+Tue,11/26/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,11/26/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,11/27/2019,Brand.com,655,No data,Sold out,274,No data,143
+Wed,11/27/2019,Booking.com,No data,No data,No data,No data,552,No data
+Wed,11/27/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,11/27/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,11/28/2019,Brand.com,655,No data,549,274,No data,143
+Thu,11/28/2019,Booking.com,No data,No data,No data,No data,382,No data
+Thu,11/28/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,11/28/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,11/29/2019,Brand.com,505,No data,329,274,No data,143
+Fri,11/29/2019,Booking.com,No data,No data,No data,No data,263,No data
+Fri,11/29/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,11/29/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,11/30/2019,Brand.com,535,No data,359,274,No data,143
+Sat,11/30/2019,Booking.com,No data,No data,No data,No data,263,No data
+Sat,11/30/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,11/30/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,12/1/2019,Brand.com,565,No data,329,484,No data,206
+Sun,12/1/2019,Booking.com,No data,No data,No data,No data,433,No data
+Sun,12/1/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,12/1/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,12/2/2019,Brand.com,655,No data,499,604,No data,395
+Mon,12/2/2019,Booking.com,No data,No data,No data,No data,749,No data
+Mon,12/2/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,12/2/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,12/3/2019,Brand.com,655,No data,Sold out,684,No data,395
+Tue,12/3/2019,Booking.com,No data,No data,No data,No data,749,No data
+Tue,12/3/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,12/3/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,12/4/2019,Brand.com,655,No data,Sold out,684,No data,395
+Wed,12/4/2019,Booking.com,No data,No data,No data,No data,699,No data
+Wed,12/4/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,12/4/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,12/5/2019,Brand.com,595,No data,449,554,No data,296
+Thu,12/5/2019,Booking.com,No data,No data,No data,No data,501,No data
+Thu,12/5/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,12/5/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,12/6/2019,Brand.com,595,No data,309,274,No data,143
+Fri,12/6/2019,Booking.com,No data,No data,No data,No data,263,No data
+Fri,12/6/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,12/6/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,12/7/2019,Brand.com,625,No data,309,274,No data,143
+Sat,12/7/2019,Booking.com,No data,No data,No data,No data,263,No data
+Sat,12/7/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,12/7/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,12/8/2019,Brand.com,565,No data,329,504,No data,206
+Sun,12/8/2019,Booking.com,No data,No data,No data,No data,484,No data
+Sun,12/8/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,12/8/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,12/9/2019,Brand.com,655,No data,499,604,No data,395
+Mon,12/9/2019,Booking.com,No data,No data,No data,No data,749,No data
+Mon,12/9/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,12/9/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,12/10/2019,Brand.com,655,No data,Sold out,684,No data,440
+Tue,12/10/2019,Booking.com,No data,No data,No data,No data,749,No data
+Tue,12/10/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,12/10/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,12/11/2019,Brand.com,655,No data,Sold out,684,No data,440
+Wed,12/11/2019,Booking.com,No data,No data,No data,No data,749,No data
+Wed,12/11/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,12/11/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,12/12/2019,Brand.com,595,No data,449,554,No data,296
+Thu,12/12/2019,Booking.com,No data,No data,No data,No data,637,No data
+Thu,12/12/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,12/12/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,12/13/2019,Brand.com,595,No data,309,274,No data,143
+Fri,12/13/2019,Booking.com,No data,No data,No data,No data,254,No data
+Fri,12/13/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,12/13/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,12/14/2019,Brand.com,625,No data,309,274,No data,143
+Sat,12/14/2019,Booking.com,No data,No data,No data,No data,254,No data
+Sat,12/14/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,12/14/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,12/15/2019,Brand.com,565,No data,329,274,No data,143
+Sun,12/15/2019,Booking.com,No data,No data,No data,No data,441,No data
+Sun,12/15/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,12/15/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,12/16/2019,Brand.com,655,No data,499,344,No data,161
+Mon,12/16/2019,Booking.com,No data,No data,No data,No data,620,No data
+Mon,12/16/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,12/16/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,12/17/2019,Brand.com,655,No data,Sold out,394,No data,161
+Tue,12/17/2019,Booking.com,No data,No data,No data,No data,637,No data
+Tue,12/17/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,12/17/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,12/18/2019,Brand.com,655,No data,Sold out,404,No data,161
+Wed,12/18/2019,Booking.com,No data,No data,No data,No data,594,No data
+Wed,12/18/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,12/18/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,12/19/2019,Brand.com,595,No data,449,304,No data,143
+Thu,12/19/2019,Booking.com,No data,No data,No data,No data,492,No data
+Thu,12/19/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,12/19/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,12/20/2019,Brand.com,595,No data,309,204,No data,143
+Fri,12/20/2019,Booking.com,No data,No data,No data,No data,280,No data
+Fri,12/20/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,12/20/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,12/21/2019,Brand.com,625,No data,309,204,No data,143
+Sat,12/21/2019,Booking.com,No data,No data,No data,No data,271,No data
+Sat,12/21/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,12/21/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,12/22/2019,Brand.com,565,No data,329,234,No data,143
+Sun,12/22/2019,Booking.com,No data,No data,No data,No data,458,No data
+Sun,12/22/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,12/22/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,12/23/2019,Brand.com,655,No data,499,224,No data,143
+Mon,12/23/2019,Booking.com,No data,No data,No data,No data,492,No data
+Mon,12/23/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,12/23/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,12/24/2019,Brand.com,655,No data,Sold out,244,No data,143
+Tue,12/24/2019,Booking.com,No data,No data,No data,No data,543,No data
+Tue,12/24/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,12/24/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,12/25/2019,Brand.com,655,No data,Sold out,244,No data,143
+Wed,12/25/2019,Booking.com,No data,No data,No data,No data,642,No data
+Wed,12/25/2019,Expedia,No data,No data,No data,No data,No data,No data
+Wed,12/25/2019,GDS,No data,No data,No data,No data,No data,No data
+Thu,12/26/2019,Brand.com,595,No data,449,204,No data,143
+Thu,12/26/2019,Booking.com,No data,No data,No data,No data,642,No data
+Thu,12/26/2019,Expedia,No data,No data,No data,No data,No data,No data
+Thu,12/26/2019,GDS,No data,No data,No data,No data,No data,No data
+Fri,12/27/2019,Brand.com,595,No data,309,194,No data,143
+Fri,12/27/2019,Booking.com,No data,No data,No data,No data,642,No data
+Fri,12/27/2019,Expedia,No data,No data,No data,No data,No data,No data
+Fri,12/27/2019,GDS,No data,No data,No data,No data,No data,No data
+Sat,12/28/2019,Brand.com,625,No data,309,194,No data,143
+Sat,12/28/2019,Booking.com,No data,No data,No data,No data,642,No data
+Sat,12/28/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sat,12/28/2019,GDS,No data,No data,No data,No data,No data,No data
+Sun,12/29/2019,Brand.com,565,No data,329,194,No data,143
+Sun,12/29/2019,Booking.com,No data,No data,No data,No data,642,No data
+Sun,12/29/2019,Expedia,No data,No data,No data,No data,No data,No data
+Sun,12/29/2019,GDS,No data,No data,No data,No data,No data,No data
+Mon,12/30/2019,Brand.com,655,No data,499,194,No data,143
+Mon,12/30/2019,Booking.com,No data,No data,No data,No data,642,No data
+Mon,12/30/2019,Expedia,No data,No data,No data,No data,No data,No data
+Mon,12/30/2019,GDS,No data,No data,No data,No data,No data,No data
+Tue,12/31/2019,Brand.com,655,No data,Sold out,194,No data,143
+Tue,12/31/2019,Booking.com,No data,No data,No data,No data,642,No data
+Tue,12/31/2019,Expedia,No data,No data,No data,No data,No data,No data
+Tue,12/31/2019,GDS,No data,No data,No data,No data,No data,No data
+Wed,1/1/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Wed,1/1/2020,Booking.com,No data,No data,No data,No data,642,No data
+Wed,1/1/2020,Expedia,No data,No data,No data,No data,No data,No data
+Wed,1/1/2020,GDS,No data,No data,No data,No data,No data,No data
+Thu,1/2/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Thu,1/2/2020,Booking.com,No data,No data,No data,No data,642,No data
+Thu,1/2/2020,Expedia,No data,No data,No data,No data,No data,No data
+Thu,1/2/2020,GDS,No data,No data,No data,No data,No data,No data
+Fri,1/3/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Fri,1/3/2020,Booking.com,No data,No data,No data,No data,642,No data
+Fri,1/3/2020,Expedia,No data,No data,No data,No data,No data,No data
+Fri,1/3/2020,GDS,No data,No data,No data,No data,No data,No data
+Sat,1/4/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sat,1/4/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sat,1/4/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sat,1/4/2020,GDS,No data,No data,No data,No data,No data,No data
+Sun,1/5/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sun,1/5/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sun,1/5/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sun,1/5/2020,GDS,No data,No data,No data,No data,No data,No data
+Mon,1/6/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Mon,1/6/2020,Booking.com,No data,No data,No data,No data,642,No data
+Mon,1/6/2020,Expedia,No data,No data,No data,No data,No data,No data
+Mon,1/6/2020,GDS,No data,No data,No data,No data,No data,No data
+Tue,1/7/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Tue,1/7/2020,Booking.com,No data,No data,No data,No data,642,No data
+Tue,1/7/2020,Expedia,No data,No data,No data,No data,No data,No data
+Tue,1/7/2020,GDS,No data,No data,No data,No data,No data,No data
+Wed,1/8/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Wed,1/8/2020,Booking.com,No data,No data,No data,No data,667,No data
+Wed,1/8/2020,Expedia,No data,No data,No data,No data,No data,No data
+Wed,1/8/2020,GDS,No data,No data,No data,No data,No data,No data
+Thu,1/9/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Thu,1/9/2020,Booking.com,No data,No data,No data,No data,642,No data
+Thu,1/9/2020,Expedia,No data,No data,No data,No data,No data,No data
+Thu,1/9/2020,GDS,No data,No data,No data,No data,No data,No data
+Fri,1/10/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Fri,1/10/2020,Booking.com,No data,No data,No data,No data,642,No data
+Fri,1/10/2020,Expedia,No data,No data,No data,No data,No data,No data
+Fri,1/10/2020,GDS,No data,No data,No data,No data,No data,No data
+Sat,1/11/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sat,1/11/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sat,1/11/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sat,1/11/2020,GDS,No data,No data,No data,No data,No data,No data
+Sun,1/12/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sun,1/12/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sun,1/12/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sun,1/12/2020,GDS,No data,No data,No data,No data,No data,No data
+Mon,1/13/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Mon,1/13/2020,Booking.com,No data,No data,No data,No data,755,No data
+Mon,1/13/2020,Expedia,No data,No data,No data,No data,No data,No data
+Mon,1/13/2020,GDS,No data,No data,No data,No data,No data,No data
+Tue,1/14/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Tue,1/14/2020,Booking.com,No data,No data,No data,No data,755,No data
+Tue,1/14/2020,Expedia,No data,No data,No data,No data,No data,No data
+Tue,1/14/2020,GDS,No data,No data,No data,No data,No data,No data
+Wed,1/15/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Wed,1/15/2020,Booking.com,No data,No data,No data,No data,755,No data
+Wed,1/15/2020,Expedia,No data,No data,No data,No data,No data,No data
+Wed,1/15/2020,GDS,No data,No data,No data,No data,No data,No data
+Thu,1/16/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Thu,1/16/2020,Booking.com,No data,No data,No data,No data,642,No data
+Thu,1/16/2020,Expedia,No data,No data,No data,No data,No data,No data
+Thu,1/16/2020,GDS,No data,No data,No data,No data,No data,No data
+Fri,1/17/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Fri,1/17/2020,Booking.com,No data,No data,No data,No data,642,No data
+Fri,1/17/2020,Expedia,No data,No data,No data,No data,No data,No data
+Fri,1/17/2020,GDS,No data,No data,No data,No data,No data,No data
+Sat,1/18/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sat,1/18/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sat,1/18/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sat,1/18/2020,GDS,No data,No data,No data,No data,No data,No data
+Sun,1/19/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sun,1/19/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sun,1/19/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sun,1/19/2020,GDS,No data,No data,No data,No data,No data,No data
+Mon,1/20/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Mon,1/20/2020,Booking.com,No data,No data,No data,No data,755,No data
+Mon,1/20/2020,Expedia,No data,No data,No data,No data,No data,No data
+Mon,1/20/2020,GDS,No data,No data,No data,No data,No data,No data
+Tue,1/21/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Tue,1/21/2020,Booking.com,No data,No data,No data,No data,755,No data
+Tue,1/21/2020,Expedia,No data,No data,No data,No data,No data,No data
+Tue,1/21/2020,GDS,No data,No data,No data,No data,No data,No data
+Wed,1/22/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Wed,1/22/2020,Booking.com,No data,No data,No data,No data,755,No data
+Wed,1/22/2020,Expedia,No data,No data,No data,No data,No data,No data
+Wed,1/22/2020,GDS,No data,No data,No data,No data,No data,No data
+Thu,1/23/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Thu,1/23/2020,Booking.com,No data,No data,No data,No data,642,No data
+Thu,1/23/2020,Expedia,No data,No data,No data,No data,No data,No data
+Thu,1/23/2020,GDS,No data,No data,No data,No data,No data,No data
+Fri,1/24/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Fri,1/24/2020,Booking.com,No data,No data,No data,No data,642,No data
+Fri,1/24/2020,Expedia,No data,No data,No data,No data,No data,No data
+Fri,1/24/2020,GDS,No data,No data,No data,No data,No data,No data
+Sat,1/25/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sat,1/25/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sat,1/25/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sat,1/25/2020,GDS,No data,No data,No data,No data,No data,No data
+Sun,1/26/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sun,1/26/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sun,1/26/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sun,1/26/2020,GDS,No data,No data,No data,No data,No data,No data
+Mon,1/27/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Mon,1/27/2020,Booking.com,No data,No data,No data,No data,755,No data
+Mon,1/27/2020,Expedia,No data,No data,No data,No data,No data,No data
+Mon,1/27/2020,GDS,No data,No data,No data,No data,No data,No data
+Tue,1/28/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Tue,1/28/2020,Booking.com,No data,No data,No data,No data,755,No data
+Tue,1/28/2020,Expedia,No data,No data,No data,No data,No data,No data
+Tue,1/28/2020,GDS,No data,No data,No data,No data,No data,No data
+Wed,1/29/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Wed,1/29/2020,Booking.com,No data,No data,No data,No data,755,No data
+Wed,1/29/2020,Expedia,No data,No data,No data,No data,No data,No data
+Wed,1/29/2020,GDS,No data,No data,No data,No data,No data,No data
+Thu,1/30/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Thu,1/30/2020,Booking.com,No data,No data,No data,No data,642,No data
+Thu,1/30/2020,Expedia,No data,No data,No data,No data,No data,No data
+Thu,1/30/2020,GDS,No data,No data,No data,No data,No data,No data
+Fri,1/31/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Fri,1/31/2020,Booking.com,No data,No data,No data,No data,642,No data
+Fri,1/31/2020,Expedia,No data,No data,No data,No data,No data,No data
+Fri,1/31/2020,GDS,No data,No data,No data,No data,No data,No data
+Sat,2/1/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sat,2/1/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sat,2/1/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sat,2/1/2020,GDS,No data,No data,No data,No data,No data,No data
+Sun,2/2/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sun,2/2/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sun,2/2/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sun,2/2/2020,GDS,No data,No data,No data,No data,No data,No data
+Mon,2/3/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Mon,2/3/2020,Booking.com,No data,No data,No data,No data,755,No data
+Mon,2/3/2020,Expedia,No data,No data,No data,No data,No data,No data
+Mon,2/3/2020,GDS,No data,No data,No data,No data,No data,No data
+Tue,2/4/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Tue,2/4/2020,Booking.com,No data,No data,No data,No data,755,No data
+Tue,2/4/2020,Expedia,No data,No data,No data,No data,No data,No data
+Tue,2/4/2020,GDS,No data,No data,No data,No data,No data,No data
+Wed,2/5/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Wed,2/5/2020,Booking.com,No data,No data,No data,No data,755,No data
+Wed,2/5/2020,Expedia,No data,No data,No data,No data,No data,No data
+Wed,2/5/2020,GDS,No data,No data,No data,No data,No data,No data
+Thu,2/6/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Thu,2/6/2020,Booking.com,No data,No data,No data,No data,642,No data
+Thu,2/6/2020,Expedia,No data,No data,No data,No data,No data,No data
+Thu,2/6/2020,GDS,No data,No data,No data,No data,No data,No data
+Fri,2/7/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Fri,2/7/2020,Booking.com,No data,No data,No data,No data,642,No data
+Fri,2/7/2020,Expedia,No data,No data,No data,No data,No data,No data
+Fri,2/7/2020,GDS,No data,No data,No data,No data,No data,No data
+Sat,2/8/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sat,2/8/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sat,2/8/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sat,2/8/2020,GDS,No data,No data,No data,No data,No data,No data
+Sun,2/9/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sun,2/9/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sun,2/9/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sun,2/9/2020,GDS,No data,No data,No data,No data,No data,No data
+Mon,2/10/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Mon,2/10/2020,Booking.com,No data,No data,No data,No data,755,No data
+Mon,2/10/2020,Expedia,No data,No data,No data,No data,No data,No data
+Mon,2/10/2020,GDS,No data,No data,No data,No data,No data,No data
+Tue,2/11/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Tue,2/11/2020,Booking.com,No data,No data,No data,No data,755,No data
+Tue,2/11/2020,Expedia,No data,No data,No data,No data,No data,No data
+Tue,2/11/2020,GDS,No data,No data,No data,No data,No data,No data
+Wed,2/12/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Wed,2/12/2020,Booking.com,No data,No data,No data,No data,755,No data
+Wed,2/12/2020,Expedia,No data,No data,No data,No data,No data,No data
+Wed,2/12/2020,GDS,No data,No data,No data,No data,No data,No data
+Thu,2/13/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Thu,2/13/2020,Booking.com,No data,No data,No data,No data,642,No data
+Thu,2/13/2020,Expedia,No data,No data,No data,No data,No data,No data
+Thu,2/13/2020,GDS,No data,No data,No data,No data,No data,No data
+Fri,2/14/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Fri,2/14/2020,Booking.com,No data,No data,No data,No data,642,No data
+Fri,2/14/2020,Expedia,No data,No data,No data,No data,No data,No data
+Fri,2/14/2020,GDS,No data,No data,No data,No data,No data,No data
+Sat,2/15/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sat,2/15/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sat,2/15/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sat,2/15/2020,GDS,No data,No data,No data,No data,No data,No data
+Sun,2/16/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sun,2/16/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sun,2/16/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sun,2/16/2020,GDS,No data,No data,No data,No data,No data,No data
+Mon,2/17/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Mon,2/17/2020,Booking.com,No data,No data,No data,No data,755,No data
+Mon,2/17/2020,Expedia,No data,No data,No data,No data,No data,No data
+Mon,2/17/2020,GDS,No data,No data,No data,No data,No data,No data
+Tue,2/18/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Tue,2/18/2020,Booking.com,No data,No data,No data,No data,755,No data
+Tue,2/18/2020,Expedia,No data,No data,No data,No data,No data,No data
+Tue,2/18/2020,GDS,No data,No data,No data,No data,No data,No data
+Wed,2/19/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Wed,2/19/2020,Booking.com,No data,No data,No data,No data,755,No data
+Wed,2/19/2020,Expedia,No data,No data,No data,No data,No data,No data
+Wed,2/19/2020,GDS,No data,No data,No data,No data,No data,No data
+Thu,2/20/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Thu,2/20/2020,Booking.com,No data,No data,No data,No data,642,No data
+Thu,2/20/2020,Expedia,No data,No data,No data,No data,No data,No data
+Thu,2/20/2020,GDS,No data,No data,No data,No data,No data,No data
+Fri,2/21/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Fri,2/21/2020,Booking.com,No data,No data,No data,No data,642,No data
+Fri,2/21/2020,Expedia,No data,No data,No data,No data,No data,No data
+Fri,2/21/2020,GDS,No data,No data,No data,No data,No data,No data
+Sat,2/22/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sat,2/22/2020,Booking.com,No data,No data,No data,No data,642,No data
+Sat,2/22/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sat,2/22/2020,GDS,No data,No data,No data,No data,No data,No data
+Sun,2/23/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sun,2/23/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Sun,2/23/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sun,2/23/2020,GDS,No data,No data,No data,No data,No data,No data
+Mon,2/24/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Mon,2/24/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Mon,2/24/2020,Expedia,No data,No data,No data,No data,No data,No data
+Mon,2/24/2020,GDS,No data,No data,No data,No data,No data,No data
+Tue,2/25/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Tue,2/25/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Tue,2/25/2020,Expedia,No data,No data,No data,No data,No data,No data
+Tue,2/25/2020,GDS,No data,No data,No data,No data,No data,No data
+Wed,2/26/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Wed,2/26/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Wed,2/26/2020,Expedia,No data,No data,No data,No data,No data,No data
+Wed,2/26/2020,GDS,No data,No data,No data,No data,No data,No data
+Thu,2/27/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Thu,2/27/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Thu,2/27/2020,Expedia,No data,No data,No data,No data,No data,No data
+Thu,2/27/2020,GDS,No data,No data,No data,No data,No data,No data
+Fri,2/28/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Fri,2/28/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Fri,2/28/2020,Expedia,No data,No data,No data,No data,No data,No data
+Fri,2/28/2020,GDS,No data,No data,No data,No data,No data,No data
+Sat,2/29/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sat,2/29/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Sat,2/29/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sat,2/29/2020,GDS,No data,No data,No data,No data,No data,No data
+Sun,3/1/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Sun,3/1/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Sun,3/1/2020,Expedia,No data,No data,No data,No data,No data,No data
+Sun,3/1/2020,GDS,No data,No data,No data,No data,No data,No data
+Mon,3/2/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Mon,3/2/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Mon,3/2/2020,Expedia,No data,No data,No data,No data,No data,No data
+Mon,3/2/2020,GDS,No data,No data,No data,No data,No data,No data
+Tue,3/3/2020,Brand.com,895,No data,Sold out,Sold out,No data,Sold out
+Tue,3/3/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Tue,3/3/2020,Expedia,No data,No data,No data,No data,No data,No data
+Tue,3/3/2020,GDS,No data,No data,No data,No data,No data,No data
+Wed,3/4/2020,Brand.com,No data,No data,No data,No data,No data,No data
+Wed,3/4/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Wed,3/4/2020,Expedia,No data,No data,No data,No data,No data,No data
+Wed,3/4/2020,GDS,No data,No data,No data,No data,No data,No data
+Thu,3/5/2020,Brand.com,No data,No data,No data,No data,No data,No data
+Thu,3/5/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Thu,3/5/2020,Expedia,No data,No data,No data,No data,No data,No data
+Thu,3/5/2020,GDS,No data,No data,No data,No data,No data,No data
+Fri,3/6/2020,Brand.com,No data,No data,No data,No data,No data,No data
+Fri,3/6/2020,Booking.com,No data,No data,No data,No data,Sold out,No data
+Fri,3/6/2020,Expedia,No data,No data,No data,No data,No data,No data
+Fri,3/6/2020,GDS,No data,No data,No data,No data,No data,No data
